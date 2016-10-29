@@ -1,1 +1,1 @@
-stránka v češtině
+page in english
