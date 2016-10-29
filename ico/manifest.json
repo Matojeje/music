@@ -1,0 +1,18 @@
+{
+	"name": "Mato's music",
+	"icons": [
+		{
+			"src": "\/ico\/android-chrome-192x192.png?cookie=2",
+			"sizes": "192x192",
+			"type": "image\/png"
+		},
+		{
+			"src": "\/ico\/android-chrome-384x384.png?cookie=2",
+			"sizes": "384x384",
+			"type": "image\/png"
+		}
+	],
+	"theme_color": "#003028",
+	"start_url": "https:\/\/matojeje.github.io\/music\/android\/index.html",
+	"display": "standalone"
+}
